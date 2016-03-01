@@ -1,0 +1,23 @@
+﻿[
+	{
+	    'name': 'www.bj-home.net',
+		'run':true,
+		'dir':'',
+		'fiter':'',
+		'childs':{
+				'site11':{
+					'name':'',
+					'ftp': {
+						'host': "",
+						'name': '',
+						'pwd': '',
+						'pasv': true,
+						'path': 'web'
+					}
+				}
+		}
+	}
+]
+
+
+
